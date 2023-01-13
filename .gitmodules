@@ -1,3 +1,6 @@
 [submodule "e-health"]
 	path = e-health
 	url = https://github.com/m3ofer/Proj.git
+[submodule "opm-server"]
+	path = opm-server
+	url = https://github.com/chiboubys/opm-server.git
